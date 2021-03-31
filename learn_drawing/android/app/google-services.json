@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "697562235136",
+    "project_id": "learnquiz-c8e3a",
+    "storage_bucket": "learnquiz-c8e3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697562235136:android:a586bf91d171cb376b73e5",
+        "android_client_info": {
+          "package_name": "com.example.learn_drawing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "697562235136-klesfcjnkc8enh8t2blojbtf2ub7sg1a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjvrczA8R0S_NnuEOfTnv8nFRILjVe7aU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "697562235136-klesfcjnkc8enh8t2blojbtf2ub7sg1a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
